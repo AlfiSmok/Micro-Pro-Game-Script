@@ -10,7 +10,7 @@ const uint8_t BTN_DLUGIE = 2;
 
 const unsigned long DEBOUNCE_MS          = 25;
 const unsigned long NEUTRAL_COOLDOWN_MS  = 250;
-const unsigned long TAP_HOLD_MS          = 120;   // czas przytrzymania przycisku
+const unsigned long TAP_HOLD_MS          = 80;   // czas przytrzymania przycisku
 
 enum Kierunek { NEUTRAL, LEWY, PRAWY };
 Kierunek aktualnyKierunek = NEUTRAL;
