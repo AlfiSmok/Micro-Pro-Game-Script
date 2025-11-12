@@ -94,7 +94,7 @@ void loop() {
     aktualnyKierunek = LEWY;
     Serial.println("Ustawiono kierunek: LEWY");
   }
-o
+
   if (edgePrawy) {
     tap(BTN_PRAWY, "PRAWY");
     aktualnyKierunek = PRAWY;
