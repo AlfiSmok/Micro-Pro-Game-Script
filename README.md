@@ -1,2 +1,2 @@
 # Micro-Pro-Game-Script
-madein3d.pl
+https://madein3d.pl
